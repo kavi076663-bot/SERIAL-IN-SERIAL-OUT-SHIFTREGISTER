@@ -36,7 +36,12 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/48139d7d-b897-4daa-8ac2-91f8163a7a16" />
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/6eadaf35-eaa9-4c92-a28f-a22c50256d0b" />
+
 
 **RESULTS**
